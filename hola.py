@@ -1,2 +1,3 @@
 # This script prints "Hola, mundo" to the console.
-print("Hola, mundo cruel!!!")
+nombre = input("¿Cuál es tu nombre? ")
+print(f"Hola, {nombre}!!")
